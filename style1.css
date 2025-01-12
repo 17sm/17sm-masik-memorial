@@ -1,0 +1,7 @@
+h1 {
+    color: purple; /* Задаємо фіолетовий колір для заголовка */
+    font-family: "Playwrite AU SA", serif; /* Використовуємо шрифт Playwrite AU SA */
+    font-optical-sizing: auto; /* Автоматичне налаштування оптичного розміру */
+    font-weight: 00; /* Товщина шрифту (може бути 100–900) */
+    font-style: italic; /* Звичайний стиль шрифту */
+}
